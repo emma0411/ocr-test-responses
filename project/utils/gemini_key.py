@@ -1,0 +1,4 @@
+"""List Gemini API key"""
+
+
+gemini_api_key = [""]
